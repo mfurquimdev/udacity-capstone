@@ -1,1 +1,0 @@
-tex/md/proposal.md
